@@ -36,7 +36,7 @@ The country should be the actual country name and not the country code. For exam
 - `GB-NIR` is 'Northern Ireland'
 - `JP` is 'Japan'
 
-Include a button to close to the modal.
+Include a button to close the modal. The modal should take into account diffrent screen sizes.
 
 ### Artwork Data
 
