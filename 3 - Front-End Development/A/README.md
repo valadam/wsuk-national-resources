@@ -4,7 +4,7 @@
 
 In this module, you will be required to create a website following a set of client requirements.
 
-You can write your solution in HTML, CSS and JS. You can use any allowed libraries or frameworks if you prefer.
+You can write your solution in HTML, CSS and JS. You can use any allowed libraries or frameworks (React, Vue, Svelte) if you prefer.
 
 You have 3 hours for this task.
 
