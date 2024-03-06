@@ -82,7 +82,7 @@ Ensure the website looks good on various devices (e.g., desktop, tablet and mobi
 
 Use media queries to adjust layout and font sizes accordingly.
 
-## Media Files
+### Media Files
 
 Media files can be found in the [media](media) folder.
 
@@ -90,7 +90,7 @@ The JSON data should not be modified in any way.
 
 You may create optimised image files for thumbnails. However, the original images must be shown in the artwork details modal.
 
-## Validation
+### Validation
 
 Your website must use valid HTML, CSS and JS.
 
