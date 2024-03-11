@@ -98,6 +98,14 @@ When saving as a JPEG, the background colour must be the same as that of the can
 
 When saving as a PNG, the background of the downloaded image should be transparent.
 
+### Clearing the Canvas
+
+There should be a tool that, when clicked or pressed, will clear the canvas.
+
+All shapes should be removed such that the canvas is as it was before the user began drawing.
+
+The progress saved in the user's local storage should also be deleted so that the user can start again from scratch.
+
 ### Automatic Saving
 
 The web application must provide an auto-save feature. After a change has been made, the user's work must be saved to local storage.
