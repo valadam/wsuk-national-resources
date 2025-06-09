@@ -1,0 +1,36 @@
+--Variables
+:root {
+    --dark-bg: #111111;
+    --secondary-dark: #222222;
+    --accent-color: #DF4343;
+    --white-color: #ffffff;
+    --gray-color: #aaaaaa;
+    --font-primary: 'Open Sans', sans-serif;
+}
+--Fonts Import
+/* Open Sans - Covers all weights and styles with variable fonts */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../path/to/file/OpenSans-VariableFont_wdth,wght.ttf') format('truetype-variations');
+    font-weight: 300 800;
+    font-stretch: 75% 100%;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../path/to/file/OpenSans-Italic-VariableFont_wdth,wght.ttf') format('truetype-variations');
+    font-weight: 300 800;
+    font-stretch: 75% 100%;
+    font-style: italic;
+    font-display: swap;
+}
+
+--Headers
+h1 { font-size: 6.5rem; }
+h2 { font-size: 4.5rem; }
+h3 { font-size: 3.125rem; }
+h4 { font-size: 2rem; }
+h5 { font-size: 1.5rem; }
+h6 { font-size: 1.125rem; }
